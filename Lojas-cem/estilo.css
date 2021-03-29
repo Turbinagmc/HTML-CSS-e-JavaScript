@@ -1,0 +1,34 @@
+body{
+	font-size: 15px;
+	width: 1250px;
+	margin-left:auto;
+	margin-right:auto;
+	
+	
+} 
+h1 {
+	color: blue;
+	background-image:
+	url(background1.jpg);
+	padding:10px;
+}
+h2 {
+	color: red;
+}
+h3 {
+	color: red;
+}
+p{
+	color:black;
+}
+ figure{
+	border: 1px solid #ccc;
+	text-align: center;
+	background-color:#f2EDED;
+	margin: 50px 150px;
+	
+} 
+figcaption{
+	margin-top:15px;
+}
+	

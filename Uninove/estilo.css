@@ -1,0 +1,39 @@
+body{
+	width: 940px;
+	margin-left:auto;
+	margin-right:auto;
+	font-family: "lucída sans Unicode","Lucida Grande",sans-serif;
+	
+} 
+h1 {
+	color: #ffffff;
+	background-color:#00478c;
+	padding:10px;
+}
+h2 {
+	
+	border-bottom: 2px solid #333333;
+	margin-top:40px;
+}
+h3 {
+	color: black;
+}
+h4 {
+	color:black
+}
+p{
+	Padding:0 45px;
+	text-indent: 35px;
+}
+ figure{
+	border: 1px solid #51708e;
+	background-color:#D8E6F0;
+	margin: 30px 150px;
+	text-align: center;
+	padding:15px;
+} 
+figcaption{
+	font-style: italic;
+	margin-top: 10px
+}
+	

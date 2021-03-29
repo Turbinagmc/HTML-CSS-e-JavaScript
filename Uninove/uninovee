@@ -1,0 +1,121 @@
+<html>
+	<head>
+		<title>Home UNINOVE</title>
+		<link rel="stylesheet" href="estilo.css">
+		<meta charset="utf-8">
+	</head>
+		<body>
+			<img src="imagens/Uninove.png"alt="some text"width=190 height=80>
+			
+			<h2>Sobre a Uninove<h2>
+				<h3>
+				<p>Com uma história de mais de 60 anos de intensa dedicação em prol da educação, a Univeersidade Nove de</p>
+				<p>julho(UNINOVE) é uma das maiores instituções privadas de ensino superior e pesquisa do brasil.</p>
+				<p>
+				<p>possui cinco unidades e um centro de Pòs-graduação localizados na capital de São Paulo, perto de</p>
+				<p>estações de metrô e terminais urbanos e nas cidades de São Roque e São Manoel,além de mais de 50 poios</p>
+				<P>de educação a distância por todo o brasil</p>
+				<h3>
+				
+				<figure>
+					<img src="imagens/memorial.jpg"alt="some text" width=250 height=200>
+					<figcaption>Uninove Memorial</figcaption>
+				</figure>
+				
+				<p>O campus Memorial da UNINOVE traz como diferencial o departamento dedicado á Educação Continuada,</p>
+				<p>résponsavel pelos cursos de especialização e MBA, e o Centro de Pòs-graduação, local onde se ministram os</p>
+				<p>cursos de Mestrado e Doutorado oferecidos pela instituição.</p>
+				
+				<figure>
+					<img src="imagens/vergueiro.jpg"alt="some text" width=250 height=200>
+					<figcaption>Uninove vergueiro</figcaption>
+				</figure>
+				
+				<p>Consolida-se uma proposta de ensino de excelência na cidade de São Paulo. No bairro Liberdade,</p>
+				<p>região central da capital, é inaugurado o terceiro campus da UNINOVE. Dotado de uma infraestrutura</p>
+				<p>moderna – que reflete a evolução contínua alcançada pela universidade – o complexo se tornou</p>
+				<p>sede dos cursos de Medicina e Odontologia.</p>
+				
+				<figure>
+					<img src="imagens/vila maria.jpg"alt="some text" width=250 height=200>
+					<figcaption>Uninove vila maria</figcaption>
+				</figure>
+				
+				<p>Crescimento por meio da excelência de ensino. Em 1954 foi inaugurado, no bairro da Vila Maria, o</p>
+				<p>primeiro campus da UNINOVE. O que inicialmente era a Escola de Datilografia Anchieta tornou-se um</p>
+				<p>complexo acadêmico, oferecendo cursos que promovem a formação anual de milhares de pessoas</p>
+				<p>em busca de desenvolvimento profissional.</p>
+				
+				<figure>
+					<img src="imagens/vila prudente.jpg"alt="some text" width=250 height=200>
+					<figcaption>Uninove vila prudente</figcaption>
+				</figure>
+				
+				<p>Para celebrar 60 anos de tradição na área educacional, a UNINOVE inaugura o campus Vila Prudente,</p>
+				<p>em uma das regiões que mais cresceram nos últimos anos. Situado ao lado da estação Vila</p>
+				<p>Prudente do Metrô e das principais avenidas da região, o novo campus possui fácil acesso à zona</p>
+				<p>leste, ao Ipiranga e ao ABC, através das linhas Verde do Metrô, Turquesa da CPTM e do Monotrilho.</p>
+				
+				<figure>
+					<img src="imagens/santo amaro.jpg"alt="some text" width=250 height=200>
+					<figcaption>Uninove santo amaro</figcaption>
+				</figure>
+				
+				<p>O campus Santo Amaro é sinônimo de uma proposta de investimento em novos talentos</p>
+				<p>profissionais, casada com a necessidade de conscientizar a população local sobre a necessidade de</p>
+				<p>buscar uma carreira de sucesso por meio da educação de qualidade.</p>
+				
+				<h3>Historia<h3>
+				
+				<figure>
+					<img src="imagens/santo amaro.jpg"alt="some text" width=250 height=200>
+					<figcaption>Uninove santo amaro</figcaption>
+				</figure>
+				
+				<p>1956
+Início da Escola Anglo Latino de cursos profissionalizantes, com opções em Administração e Contabilidade, além de cursos de datilografia.</p>
+				<p>1966
+José Storópoli cria o Colégio Nove de Julho, com nome inspirado na Revolução Constitucionalista de 1932.</p>
+				<p>1972
+Autorizado o funcionamento da primeira unidade de ensino superior: a Faculdade de Filosofia, Ciências e Letras Nove de Julho.</p>
+				<p>1992
+A instituição é estruturada como Faculdades Integradas Nove de Julho.</p>
+				<p>1997
+A faculdade é credenciada como Centro Universitário Nove de Julho (UNINOVE).</p>
+				<p>2000
+Inaugurada a segunda unidade, denominada campus Memorial, no bairro da Barra Funda.</p>
+				<p>2002
+Os programas de Mestrado em Administração e Educação são recomendados pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes).</p>
+				<p>2003
+Inaugurado o Centro de Pós-graduação.</p>
+				<p>2004
+Inauguração do campus Vergueiro.</p>
+				<p>2005
+Implantada a Diretoria de Pesquisa UNINOVE.</p>
+				<p>2006
+Início da modalidade presencial-interativa em São Paulo, Bauru, Botucatu e São Roque. Vai ao ar a TV UNINOVE.</p>
+				<p>2007
+O curso de Medicina é reconhecido pelo Ministério da Educação (MEC). O programa de Mestrado em Ciências da Reabilitação é recomendado pela Capes.</p>
+				<p>2008
+MEC credencia a instituição como Universidade Nove de Julho. É inaugurado o campus Santo Amaro. São lançados os programas de Mestrado em Engenharia de Produção e o Doutorado em Administração.</p>
+				<p>2009
+O Doutorado em Educação é recomendado pela Capes.</p>
+				<p>2010
+O Mestrado Profissional em Gestão de Projetos é recomendado pela Capes. Inaugurado o complexo laboratorial de Medicina Núcleo Integrado de Simulação (NIS), considerado o mais moderno da América Latina.</p>
+				<p>2011
+O curso de Doutorado em Ciências da Reabilitação é recomendado pela Capes, com conceito 5.</p>
+				<p>2012
+Os programas de Mestrado em Medicina, Mestrado e Doutorado em Biofotônica Aplicada às Ciências da Saúde, Mestrado Profissional em Gestão Ambiental e Sustentabilidade,</p>
+				<p> Mestrado Profissional em Gestão e Práticas Educacionais e Mestrado em Direito foram recomendados pela Capes. A UNINOVE oferece a todos os alunos o Channel 9, curso de inglês gratuito e que premia os melhores estudantes com uma viagem e curso no exterior.</p>
+				<p>2013
+Início dos cursos de Mestrado Profissional em Gestão em Sistemas de Saúde e Gestão do Esporte.</p>
+				<p>2014
+UNINOVE é eleita a melhor universidade particular não confessional de São Paulo, segundo o Ranking Universitário. É reconhecida como a primeira universidade particular não confessional com a maior produção</p>
+				<p>científica da cidade de São Paulo, pelo SCIMAGO INSTITUTIONS RANKING. Inauguração do campus Vila Prudente, construído com as principais tendências mundiais de sustentabilidade.</p>
+				<p>2015
+				Em parceria com o Ministério da Saúde, a UNINOVE disponibiliza programas de Residência Médica em Medicina de Família e Comunidade e Residência Multiprofissional em Saúde – Atenção Básica,</p>
+				<p>tornando-se a primeira universidade a oferecer além da residência para o curso de Medicina, residências para os graduados nos cursos de Nutrição, Fisioterapia, Enfermagem, Farmácia, Psicologia e Odontologia.</p>
+				
+				
+		</body>
+</html>

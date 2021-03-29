@@ -1,0 +1,30 @@
+body {
+	color: #333333;
+	font-family: "Lucida Sans Unicode","Lucida Grande", sans-serif;
+	width: 950px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1 {
+	background-image: url(../img/sobre-background.jpg);
+	padding: 10px;
+}
+
+h2 {
+	border-bottom: 2px solid #333333;
+	margin-top: 30px;
+}
+
+figure {
+	background-color: #F2EDED;
+	border: 1px solid #ccc;
+	text-align: center;
+	margin: 50px 150px;
+	padding: 20px;
+}
+
+figcaption {
+	font-style: italic;
+	margin-top: 15px;
+}
