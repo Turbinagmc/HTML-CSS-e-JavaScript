@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;600;700&family=Prata&display=swap');
+
+:root {
+    --body-backgroud: #0c0c0b;
+    --aside-background: #101f66;
+    --button-background: linear-gradient(90deg, rgba(231,253,45,1) 0%, rgba(34,193,195,1) 100%);
+    --icon-background: #fff;
+
+    --heading-color: #F9F9F9;
+    --text-color: #B2B2B2;
+
+    --heading-font: 'Prata', serif;
+    --body-font: 'Inter', sans-serif;
+
+    --transition: .8s ease;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+img,
+svg {
+    max-width: 100%;
+    height: auto;
+    cursor: pointer;
+}
+
+i {
+    color: var(--icon-background);
+    font-size: clamp(1.5rem, 5vw, 1.8rem);
+}
+
+
+/* Width */
+.max-w {
+    max-width: 90rem;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.max-w-txt-header {
+    max-width: clamp(43.75rem, 80vh, 50rem);
+}
+
+/* Text */
+h1 {
+    color: var(--heading-color);
+
+    font-family: var(--heading-font);
+    font-size: clamp(1.8rem, 6vw, 3rem);
+    font-weight: 500;
+}
+
+h2 {
+    color: var(--heading-color);
+
+    font-family: var(--heading-font);
+    font-size: clamp(1.9rem, 5vw, 2.5rem);
+    font-weight: 500;
+
+    transition: var(--transition);
+}
+
+
+label {
+    color: var(--text-color);
+
+    font-family: var(--heading-font);
+    font-size: clamp(1rem, 3vw, 1.2rem);
+    font-weight: 500;
+
+    cursor: pointer;
+}
+
+p {
+    color: var(--text-color);
+
+    font-family: var(--body-font);
+    font-size: clamp(.95rem, 4vw, 1.4rem);
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+p.section-p {
+    font-size: clamp(.95rem, 4vw, 1.2rem);
+    font-weight: 300;
+    line-height: 1.3;
+}
+
+.aside-text p {
+    font-size: clamp(.95rem, 4vw, 1.2rem);
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+.article-cont p {
+    font-size: clamp(.95rem, 4vw, 1.2rem);
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+a {
+    color: var(--text-color);
+
+    font-family: var(--body-font);
+    font-size: clamp(.8rem, 3vw, 1rem);
+    font-weight: 500;
+}
+
+/* Button */
+button {
+    border: 0;
+    border-radius: .10rem;
+    background: var(--button-background);
+    padding: .75rem 1rem;
+
+    font-family: var(--heading-font);
+    font-size: clamp(.9rem, 2vw, 1rem);
+    cursor: pointer;
+
+    transition: var(--transition);
+}
+
+button.btn-yellow-big {
+    border: 0;
+    border-radius: .10rem;
+    background: var(--button-background);
+    padding: .5rem 1rem;
+
+    font-weight: 700;
+    font-family: var(--heading-font);
+    font-size: clamp(.9rem, 2vw, 1rem);
+    cursor: pointer;
+
+    max-width: 50%;
+}
+
+button:hover {
+    transform: scale(1.25);
+    background: linear-gradient(90deg, rgb(20, 223, 223) 0%, rgba(148,187,233,1) 45%);
+}
+
+
+
+/* Media */
+@media (min-width: 900px) {
+    .max-w {
+    padding: 2rem;
+}
+}
